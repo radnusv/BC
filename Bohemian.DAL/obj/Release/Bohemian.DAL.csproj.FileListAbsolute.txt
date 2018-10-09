@@ -1,0 +1,7 @@
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Release\Bohemian.DAL.dll
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Release\Bohemian.DAL.pdb
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Release\Bohemian.Model.dll
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Release\Bohemian.Model.pdb
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\obj\Release\Bohemian.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\obj\Release\Bohemian.DAL.dll
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\obj\Release\Bohemian.DAL.pdb

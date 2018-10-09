@@ -1,0 +1,35 @@
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\bin\Debug\Bohemian.DAL.dll
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\bin\Debug\Bohemian.DAL.pdb
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\bin\Debug\Bohemian.Model.dll
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\bin\Debug\Bohemian.Model.pdb
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\obj\Debug\Bohemian.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\obj\Debug\Bohemian.DAL.dll
+C:\Users\Stanley\Project\Oak\src\main\Bohemian.DAL\obj\Debug\Bohemian.DAL.pdb
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.DAL.dll
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.DAL.pdb
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.Model.dll
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.Model.pdb
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.dll
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150512\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.pdb
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.DAL.dll
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.DAL.pdb
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.Model.dll
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.Model.pdb
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.csprojResolveAssemblyReference.cache
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.dll
+C:\Users\IX230I\Documents\Visual Studio 2012\Projects\BCIS App 20150614\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.pdb
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.DAL.dll
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.DAL.pdb
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.Model.dll
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\bin\Debug\Bohemian.Model.pdb
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.dll
+C:\Users\Jiangli Shi\Desktop\BCIS App\BCIS App 20150615A0200\20150512 src after change local testing\Bohemian.DAL\obj\Debug\Bohemian.DAL.pdb
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Debug\Bohemian.DAL.dll
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Debug\Bohemian.DAL.pdb
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Debug\Bohemian.Model.dll
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\bin\Debug\Bohemian.Model.pdb
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\obj\Debug\Bohemian.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\obj\Debug\Bohemian.DAL.dll
+C:\Users\Sai\Documents\BCIS Web\Bohemian.DAL\obj\Debug\Bohemian.DAL.pdb
